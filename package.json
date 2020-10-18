@@ -1,0 +1,21 @@
+{
+  "name": "sistemaweb",
+  "version": "1.0.0",
+  "description": "Sistema web para ANPNs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ANPNs",
+    "Sistema",
+    "Web",
+    "Gerenciamento"
+  ],
+  "author": "Samuel Da Silva Martins",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}

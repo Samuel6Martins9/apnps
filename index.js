@@ -51,6 +51,6 @@ app.get('/del/:id',function(req,res){
     console.log(req.params.id)
 })
 
-app.listen(3001,function(){
+app.listen(3000,function(){
     console.log('Conexão inicializada')
 })
